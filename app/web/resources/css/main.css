@@ -1,0 +1,15 @@
+body{
+	font-family:  'Open Sans', sans-serif;
+	background-color: #eceeee;
+}
+
+/** page not-found **/
+.not-found{
+	position: absolute;
+	top: 40%; 
+	left: 8%;
+}
+.card-primary .card-header {
+  background-color: #007bff;
+  color: white;
+}
